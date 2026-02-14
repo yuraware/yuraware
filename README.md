@@ -10,7 +10,7 @@
 
 ## About Me
 
-I am Yuri, full name Yurii Kobets.
+I am Yuri, or Yurii Kobets.
 Software engineer with **15 years of experience** developing high-traffic, scalable products. I specialize in building AI tools, full-stack, backend, and mobile applications that serve millions of users worldwide.
 
 ## Tech Stack
