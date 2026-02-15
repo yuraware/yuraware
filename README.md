@@ -1,17 +1,19 @@
 # Hi, I'm Yuri
 
-<div align="center">
-
-[![Website](https://img.shields.io/badge/Website-yuraware.com-blue?style=flat-square&logo=google-chrome)](https://yuraware.com)
-[![Twitter](https://img.shields.io/badge/Twitter-@yuraware-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/yuraware)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ykobets-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/ykobets)
-
-</div>
-
 ## About Me
 
 I am Yuri, or Yurii Kobets.
 Software engineer with **15 years of experience** developing high-traffic, scalable products. I specialize in building AI tools, full-stack, backend, and mobile applications that serve millions of users worldwide.
+
+### AI & Development Tools
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-181818?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 ## Tech Stack
 
@@ -56,6 +58,14 @@ const expertise = {
 ```
 
 ## Let's Connect
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-yuraware.com-blue?style=flat-square&logo=google-chrome)](https://yuraware.com)
+[![Twitter](https://img.shields.io/badge/Twitter-@yuraware-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/yuraware)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ykobets-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/ykobets)
+
+</div>
 
 - Website: [yuraware.com](https://yuraware.com)
 - Twitter: [@yuraware](https://twitter.com/yuraware)
