@@ -3,7 +3,18 @@
 ## About Me
 
 I am Yuri, or Yurii Kobets.
-Software engineer with **15 years of experience** developing high-traffic, scalable products. I specialize in building AI tools, full-stack, backend, and mobile applications that serve millions of users worldwide.
+Software engineer with **15 years of experience** developing high-traffic, scalable products. I specialize in building AI tools, full-stack, backend, and mobile applications that serve millions of users worldwide. Open to collaboration and interesting projects.
+
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-yuraware.com-blue?style=flat-square&logo=google-chrome)](https://yuraware.com)
+[![Twitter](https://img.shields.io/badge/Twitter-@yuraware-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/yuraware)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ykobets-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/ykobets)
+
+
+</div>
+
 
 ### AI & Development Tools
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -59,18 +70,9 @@ const expertise = {
 
 ## Let's Connect
 
-<div align="center">
-
-[![Website](https://img.shields.io/badge/Website-yuraware.com-blue?style=flat-square&logo=google-chrome)](https://yuraware.com)
-[![Twitter](https://img.shields.io/badge/Twitter-@yuraware-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/yuraware)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ykobets-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/ykobets)
-
-</div>
-
 - Website: [yuraware.com](https://yuraware.com)
 - Twitter: [@yuraware](https://twitter.com/yuraware)
 - LinkedIn: [linkedin.com/in/ykobets](https://linkedin.com/in/ykobets)
-- Open to collaboration and interesting projects!
 
 ---
 
