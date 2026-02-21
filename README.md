@@ -3,7 +3,7 @@
 ## About Me
 
 I am Yuri, or Yurii Kobets.
-Software engineer with **15 years of experience** developing high-traffic, scalable products. I specialize in building AI tools, full-stack, backend, and mobile applications that serve millions of users worldwide. Open to collaboration and interesting projects.
+Senior software engineer and product manager with deep expertise in building high-traffic, scalable products. I specialize in AI tools, full-stack, backend, and mobile applications that serve millions of users worldwide. Open to collaboration and interesting projects.
 
 
 <div align="center">
@@ -28,24 +28,10 @@ Software engineer with **15 years of experience** developing high-traffic, scala
 
 ## Tech Stack
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&style=flat)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&style=flat)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&style=flat)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&style=flat)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&style=flat)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&style=flat)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&style=flat)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&style=flat)
-
-### Mobile
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&style=flat)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&style=flat)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&style=flat)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&style=flat)
+| | |
+|---|---|
+| **Backend:** ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat) ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat) ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat) ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat) | **Cloud:** ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white&style=flat) ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white&style=flat) |
+| **Frontend:** ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat) ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB&style=flat) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=flat) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat) | **Mobile:** ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat) ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white&style=flat) ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=flat) |
 
 ### Databases & Cloud
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&style=flat)
