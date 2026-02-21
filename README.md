@@ -1,12 +1,10 @@
 # Hi, I'm Yuri
 
-## About Me
-
-I am Yuri, or Yurii Kobets.
-Senior software engineer and product manager with deep expertise in building high-traffic, scalable products. I specialize in AI tools, full-stack, backend, and mobile applications that serve millions of users worldwide. Open to collaboration and interesting projects.
+> I am Yuri, or Yurii Kobets.
+> Senior software engineer and product manager with deep expertise in building high-traffic, scalable products. I specialize in AI tools, full-stack, backend, and mobile applications that serve millions of users worldwide. Open to collaboration and interesting projects.
 
 
-<div align="center">
+<div align="left">
 
 [![Website](https://img.shields.io/badge/Website-yuraware.com-blue?style=flat-square&logo=google-chrome&style=flat)](https://yuraware.com)
 [![Twitter](https://img.shields.io/badge/Twitter-@yuraware-1DA1F2?style=flat-square&logo=twitter&style=flat)](https://twitter.com/yuraware)
@@ -53,11 +51,3 @@ const expertise = {
 - Website: [yuraware.com](https://yuraware.com)
 - Twitter: [@yuraware](https://twitter.com/yuraware)
 - LinkedIn: [linkedin.com/in/ykobets](https://linkedin.com/in/ykobets)
-
----
-
-<div align="center">
-
-*Building scalable solutions that impact millions of users*
-
-</div>
