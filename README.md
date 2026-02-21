@@ -28,8 +28,6 @@ Senior software engineer and product manager with deep expertise in building hig
 
 ## Tech Stack
 
-## Tech Stack
-
 | | |
 |---|---|
 | **Backend:** ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat) ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat) ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat) ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat) | **Cloud:** ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white&style=flat) ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white&style=flat) |
