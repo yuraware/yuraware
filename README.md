@@ -36,12 +36,12 @@
 
 ```typescript
 const expertise = {
+  ai: ['LLM', 'Claude', 'ChatGPT', 'Machine Learning', 'Cursor'],
   fullStack: ['React', 'Node.js', 'Next.js', 'TypeScript'],
   mobile: ['React Native', 'Flutter', 'iOS (Swift)', 'Android'],
   backend: ['Rust', 'Go', 'Python', 'Node.js', 'Express', 'Nest.js'],
   databases: ['PostgreSQL', 'MongoDB', 'MySQL', 'BigQuery'],
   cloud: ['AWS', 'GCP', 'Kubernetes', 'Docker'],
-  ai: ['LLM', 'Machine Learning Integration', 'Cursor', 'CoPilot'],
   methodologies: ['Agile', 'Scrum', 'Kanban', 'CLEAN Architecture']
 };
 ```
